@@ -21,7 +21,7 @@
 • currently learning Java.<br />
 
 • discord: <br />
-• youTube: <br />
+• youtube: <br />
 • twitter: <br />
 • ko-fi: <br />
 
