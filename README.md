@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
-<h1>hii, i'm detmer 👋</h1><br />
+<h1>hii, i'm astrid 👋</h1><br />
 
 </div>
 
@@ -12,7 +12,7 @@
 • A ton of other small/personal things, hence all the private repos and commits :p
 
 <h2>about me</h2>
-• detmer, he/him, 16<br />
+• astrid, they/them, 16<br />
 • usa<br />
 • studying cs<br /><br />
 
